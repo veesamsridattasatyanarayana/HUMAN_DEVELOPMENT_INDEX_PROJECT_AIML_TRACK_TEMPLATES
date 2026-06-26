@@ -1,3 +1,6 @@
-HUMAN_DEVELOPMENT_INDEX_PROJECT_AIML_TRACK_TEMPLATES
-Repository Structure
+**HUMAN_DEVELOPMENT_INDEX_PROJECT_AIML_TRACK_TEMPLATES**
+
+**Repository Structure**
+
 1.Brainstroming & Ideation
+
